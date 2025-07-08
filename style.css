@@ -9,3 +9,7 @@ body {
     color: #11a703;
     text-align: center;
 }
+nav {
+    background-color: #111;
+    padding: 10px;
+    flex-direction: flex;
